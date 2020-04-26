@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <title>{%ALBUMNAME%} | {%ARTISTNAME%}</title>
+    <style>
+      body {
+        background-color: #000;
+        color: white;
+      }
+      a {
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+      }
+      a:hover {
+        text-decoration: none;
+        color: #fff;
+      }
+      .row {
+        padding-top: 20%;
+      }
+      .container {
+        width: 70%;
+        height: 100vh;
+      }
+
+      .info {
+        text-align: left;
+      }
+
+      h2 {
+        font-weight: bold;
+      }
+
+      .band {
+        font-weight: bold;
+      }
+
+      .info {
+        width: 300px;
+        margin: 10px auto;
+      }
+
+      .description {
+        opacity: 0.8;
+      }
+
+      .back {
+        padding: 10px;
+        float: right;
+        border-radius: 30px;
+        background: #263238;
+        margin: 50px;
+        font-size: 14px;
+        opacity: 0.8;
+      }
+
+      .back:hover {
+        padding: 15px;
+        opacity: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="back" href="./overview">👈 BACK</a>
+    <div
+      class="wrapper"
+      style="
+        background-image: linear-gradient(
+            rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)
+          ),
+          url('{%ARTISTIMAGE%}');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+      "
+    >
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-lg-5 mb-12">
+            <img class="img-fluid" src="{%ALBUMIMAGE%}" alt="" />
+          </div>
+          <div class="col-lg-7 mb-12 info">
+            <h2>{%ALBUMNAME%}</h2>
+            <p class="band">{%ARTISTNAME%}</p>
+            <p class="description">{%DESCRIPTION%}</p>
+            <p>
+              🌍{%DATE%} &nbsp;&nbsp; 🎙{%LENGTH%} &nbsp;&nbsp; 🎸{%GENRE%}
+              &nbsp;&nbsp;
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "albumName": "Turn Blue",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/b/bb/Black_Keys_Turn_Blue_album_cover.png",
+    "artistName": "The Black Keys",
+    "artistImage": "https://cdn.wallpapersafari.com/49/93/2i74Dc.jpg",
+    "date": "2014",
+    "length": "45:11",
+    "genre": "Garage Rock",
+    "description": "Turn Blue is the eighth studio album by American rock duo the Black Keys. The record was their fourth collaboration with Danger Mouse, following their previous studio album, El Camino (2011), which was their biggest commercial and critical success to that point."
+  },
+  {
+    "id": 1,
+    "albumName": "Everything You've Come to Expect",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/8/87/Everything_You%27ve_Come_to_Expect_%28Front_Cover%29.png",
+    "artistName": "The Last Shadow Puppets",
+    "artistImage": "https://www.interviewmagazine.com/wp-content/uploads/2016/03/img-the-last-shadow-puppets_195043733829-1000x684.jpg",
+    "date": "2016",
+    "length": "37:23",
+    "genre": "Indie Rock",
+    "description": "Everything You've Come to Expect is the second album by The Last Shadow Puppets, featuring Alex Turner, Miles Kane, James Ford, and Zach Dawes, with string arrangements by Owen Pallett. It was released on 1 April 2016 on Domino Records."
+  },
+  {
+    "id": 2,
+    "albumName": "Tranquility Base Hotel & Casino",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/3/38/Arctic_Monkeys_%E2%80%93_Tranquility_Base_Hotel_%26_Casino.png",
+    "artistName": "Arctic Monkeys",
+    "artistImage": "http://eskipaper.com/images/arctic-monkeys-10.jpg",
+    "date": "2018",
+    "length": "40:51",
+    "genre": "Indie Rock",
+    "description": "Tranquility Base Hotel & Casino is the sixth studio album by English rock band Arctic Monkeys. It was released on 11 May 2018 by Domino Recording Company. The album was written by band frontman Alex Turner in 2016 on a Steinway Vertegrand piano in his Los Angeles home"
+  },
+  {
+    "id": 3,
+    "albumName": "Brothers",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Black_Keys_-_Brothers.jpg",
+    "artistName": "The Black Keys",
+    "artistImage": "https://cdn.wallpapersafari.com/49/93/2i74Dc.jpg",
+    "date": "2009",
+    "length": "55:29",
+    "genre": "Garage Rock",
+    "description": "Brothers (printed as This is an album by The Black Keys. The name of this album is Brothers. on the front cover) is the sixth studio album by American rock duo The Black Keys. Co-produced by the group, Mark Neill, and Danger Mouse, it was released on May 18, 2010 on Nonesuch Records."
+  },
+  {
+    "id": 4,
+    "albumName": "El Camino",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Black_Keys_El_Camino_Album_Cover.jpg",
+    "artistName": "The Black Keys",
+    "artistImage": "https://cdn.wallpapersafari.com/49/93/2i74Dc.jpg",
+    "date": "2011",
+    "length": "38:18",
+    "genre": "Garage Rock",
+    "description": "El Camino is the seventh studio album by American rock duo the Black Keys. It was co-produced by Danger Mouse and the group, and was released on Nonesuch Records on December 6, 2011. The record was the band's follow-up to their commercial breakthrough, Brothers (2010), and was their third collaboration with Danger Mouse. "
+  },
+  {
+    "id": 5,
+    "albumName": "Tell Me I'm Pretty",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/a/a2/Cage_the_Elephant_-_Tell_Me_I%27m_Pretty.png",
+    "artistName": "Cage the Elephant",
+    "artistImage": "https://images-na.ssl-images-amazon.com/images/I/C12gGir1aOS._CR0,0,3840,2880_._SL1000_.jpg",
+    "date": "2015",
+    "length": "38:11",
+    "genre": "Garage Rock",
+    "description": "Tell Me I'm Pretty is the fourth studio album by American rock band Cage the Elephant. It was released on December 18, 2015, and was announced online on October 5, 2015. The album was recorded in the spring of 2015 at Easy Eye Sound in Nashville, Tennessee."
+  },
+  {
+    "id": 6,
+    "albumName": "AM",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/0/04/Arctic_Monkeys_-_AM.png",
+    "artistName": "Arctic Monkeys",
+    "artistImage": "http://eskipaper.com/images/arctic-monkeys-10.jpg",
+    "date": "2013",
+    "length": "41:43",
+    "genre": "Indie Rock",
+    "description": "AM is the fifth studio album by English indie rock band Arctic Monkeys. It was produced by James Ford and co-produced by Ross Orton at Sage & Sound Recording in Los Angeles and Rancho De La Luna in Joshua Tree, California, and released in September 2013 through Domino."
+  },
+  {
+    "id": 7,
+    "albumName": "Social Cues",
+    "albumImage": "https://upload.wikimedia.org/wikipedia/en/1/17/Cage_the_Elephant_Social_Cues.jpg",
+    "artistName": "Cage the Elephant",
+    "artistImage": "https://images-na.ssl-images-amazon.com/images/I/C12gGir1aOS._CR0,0,3840,2880_._SL1000_.jpg",
+    "date": "2019",
+    "length": "44:35",
+    "genre": "Indie Rock",
+    "description": "Social Cues is the fifth studio album by American rock band Cage the Elephant. Announced on January 31, 2019, the album was released on April 19, 2019."
+  }
+]
